@@ -19,4 +19,8 @@ def bienvenido(name=None, ncontrol=None):
 if __name__ == '__main__':
     app.run(debug=True)
 
+# Esto es para ejecutarlo en la teminal
 # flask --app=Practica1 --debug run
+
+# URL de el GitHub
+# https://github.com/Juan-Sebastian-Marin-Salazar/PPWU4/blob/main/Practica1.py
